@@ -1,2 +1,2 @@
 # RustyPDF
-PDF editor written in Rust
+PDF reader, editor written in Rust
